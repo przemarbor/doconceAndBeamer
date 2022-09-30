@@ -1,0 +1,16 @@
+TITLE: Test
+AUTHOR: Some author
+DATE: today
+
+# #ifdef WITH_TOC
+!split
+TOC: on
+# #endif
+
+!split
+===== Movie doconce and beamer =====
+
+MOVIE: [experiments/frame_*.png]
+
+
+
